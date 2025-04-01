@@ -1,0 +1,52 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+myenv/
+
+# Environment variables
+*.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-specific cache
+*.egg
+*.egg-info/
+.eggs/
+
+# Coverage and testing reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.py,cover
+
+# Build files
+build/
+dist/
+*.wheel
+*.manifest
+*.spec
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Pip dependency resolver
+pip-log.txt
+pip-delete-this-directory.txt
